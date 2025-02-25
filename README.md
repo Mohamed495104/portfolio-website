@@ -17,4 +17,4 @@ Install dependencies: No dependencies required (static site)
 Run the project: Open index.html in a web browser or use a local server (e.g., VS Code Live Server)
 
 📸 Screenshots
-website-screenshots
+https://github.com/Mohamed495104/portfolio-website/tree/e0cb1821ec5b320fb591fc914711917e2735a72c/website-screenshots
