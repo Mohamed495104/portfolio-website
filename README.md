@@ -12,7 +12,7 @@ Language/Framework: HTML5, CSS3
 Tools: Visual Studio Code, Git
 
 🚀 Getting Started
-Clone the repo: git clone https://github.com/mdijas555@gmail.com/mohamed-ijas-portfolio.git
+Clone the repo: git clone https://github.com/Mohamed495104/portfolio-website.git
 Install dependencies: No dependencies required (static site)
 Run the project: Open index.html in a web browser or use a local server (e.g., VS Code Live Server)
 
